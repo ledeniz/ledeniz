@@ -1,6 +1,6 @@
 <img src="https://i.giphy.com/media/jF1oqkXJL0Mda/giphy.webp">
 
-:grinning: _**HEY HALLO HI HEJ SHALOM AHOY!**_
+:grinning: _**HALLO!**_
 
 My name is Deniz and I'm interested in:
 - automation & optimization
