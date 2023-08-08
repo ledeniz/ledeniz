@@ -9,3 +9,5 @@ My name is Deniz and I'm interested in:
 - music & sound design
 
 Feel free to say hello :)
+
+I also write blog posts (incredibly infrequently) over at https://blog.ledeniz.de/
